@@ -9,6 +9,7 @@ LOAN CALCULATOR
 
 KNAP SACK PROBLEM
 
+--------------------------------------------------------------------------------------------------------------------------
 
 In order to run the code , you must run this command to install all the requirements 
 
